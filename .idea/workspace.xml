@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3abbdf53-d292-4d62-a3bd-3092e3836698" name="Changes" comment="x mastro">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova main 4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova main 5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova main 6.py" beforeDir="false" />
-    </list>
+    <list default="true" id="3abbdf53-d292-4d62-a3bd-3092e3836698" name="Changes" comment="x mastro" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +233,7 @@
       <updated>1731332920720</updated>
       <workItem from="1731332924010" duration="2030000" />
       <workItem from="1731359325737" duration="4971000" />
-      <workItem from="1731417503405" duration="6752000" />
+      <workItem from="1731417503405" duration="7243000" />
     </task>
     <task id="LOCAL-00001" summary="x mastro">
       <option name="closed" value="true" />
@@ -248,7 +243,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731364297500</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="x mastro">
+      <option name="closed" value="true" />
+      <created>1731425396753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731425396753</updated>
+    </task>
+    <task id="LOCAL-00003" summary="x mastro">
+      <option name="closed" value="true" />
+      <created>1731425710418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731425710418</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
